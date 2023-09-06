@@ -1,3 +1,3 @@
-# Python_Projects
+# Python Sandbox Projects
 
-A repository to practice Python.
+A repository used to bookkeep past projects and sandboxes.
